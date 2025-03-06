@@ -22,3 +22,9 @@ npm run dev
 
 Medusa admin : http://localhost:9000/app/login
 Nextjs : http://localhost:8000/
+
+## Added files for comparison feature
+
+- my-medusa-store-storefront\src\app\[countryCode]\(main)\products\compare\page.tsx
+- my-medusa-store-storefront\src\modules\products\templates\product-compare\index.tsx
+- my-medusa-store-storefront\src\modules\products\components\product-selector\index.tsx
